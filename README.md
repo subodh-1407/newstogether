@@ -1,4 +1,4 @@
-A multilingual news aggregation platform designed to provide accurate, timely, and personalized news to users in their preferred language. NewsHive aims to break down language barriers and unify fragmented news platforms into a single, cohesive user experience.
+A multilingual news aggregation platform designed to provide accurate, timely, and personalized news to users in their preferred language. NewsTogether aims to break down language barriers and unify fragmented news platforms into a single, cohesive user experience.
 
 In today’s digital age, access to timely and accurate news is crucial for staying informed. However, many existing news platforms primarily cater to English speakers, creating a significant barrier for non-English speakers who struggle to find reliable news sources in their preferred language. Additionally, the fragmentation of news platforms leads to inefficiencies, miscommunication, and a lack of cohesive news consumption, which ultimately hampers user engagement and satisfaction.
 
